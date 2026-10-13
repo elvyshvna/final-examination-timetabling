@@ -13,5 +13,5 @@
 2. It delays the university calendar, freezing operations when schedules must be completely redone due to errors.
 3. It spikes administrative overhead, wasting hundreds of hours of labor on fixing avoidable scheduling mistakes.
 
-## Problem statement (3 to 5 sentences)
+## Problem statement
 University administrators struggle to organize final exam schedules manually for thousands of students. The current process frequently creates exam clashes, where students are scheduled for two tests at the exact same time. It also causes back-to-back exams that exhaust students and lead to unfair academic conditions.
